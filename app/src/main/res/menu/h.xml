@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:title="Profile"
+        android:id="@+id/pro_file"
+        app:showAsAction="never"
+
+        ></item>
+
+    <item
+        android:title="Bookings"
+        android:id="@+id/boo_k"
+        app:showAsAction="never"
+
+        ></item>
+
+    <item
+        android:title="Booking Notification"
+        android:id="@+id/boo_kno"
+        app:showAsAction="never"
+
+        ></item>
+
+    <item
+        android:title="Night Mode "
+        android:id="@+id/ni_mode"
+        app:showAsAction="never"
+
+        ></item>
+
+
+
+</menu>
